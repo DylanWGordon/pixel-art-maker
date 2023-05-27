@@ -337,7 +337,7 @@ let changeSave =[];
 let undoBtn = toolbar.querySelector('.undo');
 let redoBtn = toolbar.querySelector('.redo')
 let undRed = {}
-let redoChange = []/
+let redoChange = []
 
 
 
